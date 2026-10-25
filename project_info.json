@@ -1,0 +1,15 @@
+{
+  "project": "VisionForge AI",
+  "type": "YOLOv8 Object Detection Application",
+  "interfaces": [
+    "Image",
+    "Video",
+    "Webcam Snapshot"
+  ],
+  "framework": "Streamlit",
+  "model_family": "Ultralytics YOLOv8",
+  "reporting": [
+    "CSV",
+    "Processed MP4"
+  ]
+}
